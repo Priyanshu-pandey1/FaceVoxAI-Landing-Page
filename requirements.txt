@@ -1,3 +1,2 @@
-Flask
-flaskflask
+flask
 gunicorn
